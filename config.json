@@ -1,0 +1,7 @@
+{
+    "token": "TOKEN HERE",
+    "guild_name": "서버 이름",
+    "channel_name": "채널 이름",
+    "message_content": "@everyone 메시지",
+    "delay": 150
+}
